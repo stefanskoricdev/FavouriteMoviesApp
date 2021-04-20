@@ -3,6 +3,6 @@
 ## Features:
 
 - Responsive design,
-- Add movie (Title, image, rating),
+- Add movies (Title, image, rating),
 - Remove Movie,
 - Filter movies
